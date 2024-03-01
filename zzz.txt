@@ -1,2 +1,35 @@
 trakas lietas
 divas reizes
+
+
+cd- change directory
+ls- list
+pwd - print work directory
+touch -
+cat - izdrukāt uz ekrāna faila saturu
+cd ../../  change directory back 2 times
+HEAD - active branch, at any time only one branch is active. Also called - checked out
+checkout - moves the HEAD pointer to a different branch and makes it active
+
+work on the branch, then validate changes, get approved, emerged it to.
+
+
+---------------------------------------------------------------------------
+most important Git commands:
+
+git clone - Downloading an existing repository from a remote server (paste web address)
+git status - Displaying uncommitted changes and the state of your Working Copy
+git add - Adding changes to the staging area
+git commit - Saving changes to the local repository
+git commit -a -m "Message"
+git pull - Downloading and integrating remote changes
+git push - Publishing new local changes on a remote server
+git merge - Integrating changes from another branch
+git checkout - Switching branches and restoring files
+git branch - Creating, deleting and showing branches
+git revert - Undoing an existing commit by creating opposite changes
+git remote - Showing, adding and removing connections to remote repositories
+git switch - Switching branches
+git rm - Removing files in Git
+git restore - Discarding or unstaging uncommitted local changes
+git init - Creating a new Git repository
